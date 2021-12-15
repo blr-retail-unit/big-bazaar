@@ -3,5 +3,8 @@ new line
 <<<<<<< HEAD
 =======
 new line 1
+<<<<<<< HEAD
+>>>>>>> parent of b4e4fdc (commiting new)
+=======
 >>>>>>> parent of b4e4fdc (commiting new)
 
